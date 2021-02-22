@@ -1,0 +1,15 @@
+[{"name":" Nusrat Jahan",
+"email":"nusrat@gmail.com",
+"username":"nusrat123",
+"password":"1234",
+"confirmpassword":"1234",
+"gender":"Female",
+"dateofbirth":"2020-12-02"},
+
+{"name":"Noshin Tasnim",
+"email":"noshin@gmail.com",
+"username":"noshin34",
+"password":"8901",
+"confirmpassword":"8901",
+"gender":"Male",
+"dateofbirth":"2021-02-09"}]
